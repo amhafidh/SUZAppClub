@@ -1,0 +1,21 @@
+Ideation:Making ideas that matter
+	hcd,design thinking
+Collaboration and Version control with Slack and Github
+App wireframing and prototyping
+	tools
+	color scheming - material.io
+
+Installation to hello world
+	sdk,jre,ide,jvm,android structure and history
+
+Android UI with XML
+	-widgets (custom buttons,positioning,layouts)
+	-styles
+	-Drawables
+	-Navigation Menu
+	-ListView and Custom List View styling
+
+Concepts
+	Manifest
+	AsyncTask
+	Integrating PHP with Android code to send and fetch data to an online DB
